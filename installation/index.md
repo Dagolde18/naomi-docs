@@ -36,7 +36,7 @@ Please check the menu to the left for all available options.
 
 ## Prerequisites
 
-Due to the way we have sturtured the setup of Naomi, there are no software prerequisites (Naomi handles all of that for you!). All you need to run Naomi is compatable hardware/os.
+Due to the way we have structured the setup of Naomi, there are no software prerequisites (Naomi handles all of that for you!). All you need to run Naomi is compatable hardware/os.
 
 ## Setup variants
 
